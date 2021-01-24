@@ -61,6 +61,7 @@ body {
   text-overflow: ellipsis;
   white-space: normal;
   cursor: pointer;
+  text-decoration: none;
 }
 .task span {
   margin: 0;
